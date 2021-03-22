@@ -1,0 +1,37 @@
+Claim Information	Diagnosis Details	PatientInsured Details	Miscellaneous Details	Expected Result	Claim Line1	Claim Line2	Claim Line3	Claim Line4	Claim Line5
+"Claim Type: P
+Claim Number: 2021REG-Anes03
+Received Date: 05/01/2020
+Provider Name: Disease Center
+TaxId: 999999999
+NPI: 1234567
+Billing Provider Name: Disease Center
+BAddress1: 6754 Coalton   
+BCity: Louisville
+BState: CO
+BZip: 77273
+Ratesheet: L50CIGK246"	Primary Diagnosis: E66.9	"Patient LastName: Haley
+Patient FirstName: Harriett
+Patient Adress: 462 Oerange street
+Patient State: TX
+Patient City: Houston
+Patient Zip: 77273
+Patient DOB: 04/07/1975
+Patient Male: M
+Insured LastName: Haley
+Insured ID: 1006725240
+Insured Address: 462 Oerange street
+Insured State: TX
+Insured City: Houston
+Insured Zip: 77273
+Insured GroupNumber: 1006725240"	OutSideLab: Yes	"Allowed Amount: $60.00
+Discount: $60.00
+Term1: 6.3 Anesthesia - 01996 Flat Rate
+Term2: 6.4.1 Q MOD"	"Service From: 01/01/2020
+Service To:  01/01/2020
+POS: 24
+CPT HCPCS: 01996
+DX1: 1
+Mod1: QX
+Charges: 120
+Units: 1"	NA			
